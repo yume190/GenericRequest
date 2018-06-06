@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "2fb881a1702cb1976c36192aceb54dcedab6fdc2",
+          "version": "4.7.2"
+        }
+      },
+      {
+        "package": "AwaitKit",
+        "repositoryURL": "https://github.com/yannickl/AwaitKit.git",
+        "state": {
+          "branch": null,
+          "revision": "961ea74f7e8d1321bb0104544ffec7b43b031041",
+          "version": "5.0.0"
+        }
+      },
+      {
+        "package": "JSONDecodeKit",
+        "repositoryURL": "https://github.com/yume190/JSONDecodeKit.git",
+        "state": {
+          "branch": null,
+          "revision": "8c44751ccf29f2c3f6615203ee5311fa75f60f48",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "PromiseKit",
+        "repositoryURL": "https://github.com/mxcl/PromiseKit.git",
+        "state": {
+          "branch": null,
+          "revision": "3e6763e3aedee6c8f65cc3c1ea460f9fe7a7b05b",
+          "version": "6.2.9"
+        }
+      },
+      {
+        "package": "YumeAlamofire",
+        "repositoryURL": "https://github.com/yume190/YumeAlamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "700ab3820c09261c0744e2a1c152b4aceddb0a2c",
+          "version": "4.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
